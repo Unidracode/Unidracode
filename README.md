@@ -54,5 +54,5 @@
 
 <div align="center">
   <a href="https://github.com/Unidracode">
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unidracode&theme=github_dark$show_icons=true">
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unidracode&hide_progress=true&theme=github_dark&show_icons=true">
 </div>
