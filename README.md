@@ -51,3 +51,8 @@
 ![Premiere](https://img.shields.io/badge/Premiere-black?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%239999FF)
 ![After Effects](https://img.shields.io/badge/After%20Effects-black?style=for-the-badge&logo=adobeaftereffects&logoColor=%239999FF)
 ![Slack](https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=Slack&logoColor=%234A154B)
+
+<div align="center">
+  <a href="https://github.com/Unidracode">
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Unidracode">
+</div>
