@@ -17,12 +17,12 @@
   <li>Me Chamo Gustavo Alves Barbosa, tenho 20 anos e sou apaixonado por tecnologia</li>
   <li>Moro em Siqueira campos-PR</li>
   <li>Formado em Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a>:<br>
-    <a href="https://www.credential.net/f49a9d75-79ea-4db9-8439-da23cebd65f1#gs.8pg444" target="_blank" rel="noopener">Módulo de fundamentos</a><br>
-    <a href="https://www.credential.net/4b6b2afb-262f-47bf-9587-ae9439ac729e#gs.8pg3vh" target="_blank" rel="noopener">Módulo Front-End</a><br>
-    <a href="https://www.credential.net/db0ec8e1-248b-4b55-9164-5bcbaeeea699#gs.8pg3wi" target="_blank" rel="noopener">Módulo Back-End</a><br>
-    <a href="https://www.credential.net/45b2bbb6-fa7e-4b92-aa69-c9544eefc822#gs.8pg3x9" target="_blank" rel="noopener">Módulo Ciência da Computação</a><br>
-    <a href="https://www.credential.net/f49a9d75-79ea-4db9-8439-da23cebd65f1#gs.8pgb8z" target="_blank" rel="noopener">Módulo Java</a><br>
-    <a href="https://www.credential.net/7316479e-0d0f-48d4-a59b-233831488e9a#gs.8pgb3a" target="_blank" rel="noopener">Formação em Dev Full-Stack</a><br>
+    <a href="https://www.credential.net/13b5bb54-4539-4d04-8d79-7994dcddb03f#gs.8pfi4o" target="_blank" rel="noopener">Módulo de fundamentos</a><br>
+    <a href="https://www.credential.net/4b6b2afb-262f-47bf-9587-ae9439ac729e#gs.8pfil3" target="_blank" rel="noopener">Módulo Front-End</a><br>
+    <a href="https://www.credential.net/db0ec8e1-248b-4b55-9164-5bcbaeeea699#gs.8pfj7o" target="_blank" rel="noopener">Módulo Back-End</a><br>
+    <a href="https://www.credential.net/45b2bbb6-fa7e-4b92-aa69-c9544eefc822#gs.8pfjyx" target="_blank" rel="noopener">Módulo Ciência da Computação</a><br>
+    <a href="https://www.credential.net/f49a9d75-79ea-4db9-8439-da23cebd65f1#gs.8pfke4" target="_blank" rel="noopener">Módulo Java</a><br>
+    <a href="https://www.credential.net/7316479e-0d0f-48d4-a59b-233831488e9a#gs.8pfkj3" target="_blank" rel="noopener">Formação em Dev Full-Stack</a><br>
   </li>
   <li>Formado em Produção com Photoshop na <a href="https://www.alura.com.br/">Alura</a>:<br>
     <a href="https://cursos.alura.com.br/degree/certificate/5992565c-c27e-4384-900d-979c84a56f22" target="_blank" rel="noopener">Formação em Photoshop</a><br>
